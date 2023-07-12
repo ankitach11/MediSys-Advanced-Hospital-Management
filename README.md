@@ -27,9 +27,4 @@ The project is made of pure C++ with the help of advanced data sturctures and al
 
 
 
-# About
-It was my school project at first but after a while I add a lot of customizable features 
 
-which can be applied in real world senario, you can check the functionality on your
-
-local machine
